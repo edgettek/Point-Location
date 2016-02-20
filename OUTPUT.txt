@@ -1,0 +1,42 @@
+OUTPUT
+
+Contact Information:
+
+Name: Kyle Edgette
+Class: CSC 172 SPRING 2015
+Lab Session: Monday/Wednesday 2pm
+TA Name: TJ Stein
+Assignment Number: Project 03
+
+
+Instructions on Running the Program:
+ 
+ In the command line, change directories until you are in the correct directory. Please note, the program
+takes the name of the input file as a command line argument. The file must contain, in this order, the number
+of lines to be inserted, then the endpoints of the lines to be inserted, and then the sets of test points. Then:
+
+Compile:
+
+javac *.java
+
+Run:
+
+java Test MyTest1.txt
+
+
+Sample Output
+
+The current binary tree has 22.0 external nodes (i.e. regions).
+The tree's external path length is: 111.0
+The average path length of the tree is: 5.045454545454546
+
+
+Are (0.7, 0.5) and (0.9, 0.55) in the same region? 
+Yes.
+
+Are (0.2, 0.05) and (0.65, 0.95) in the same region? 
+No. The two points are separated by at least this line segment: (0.7172413793103449, 0.6206896551724138) (0.4432432432432432, 0.6891891891891893)
+
+Are (0.65, 0.95) and (0.5, 0.75) in the same region? 
+Yes.dhcp-10-5-26-253:src KEdgette1$ 
+

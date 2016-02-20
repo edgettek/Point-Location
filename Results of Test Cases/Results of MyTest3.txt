@@ -1,0 +1,15 @@
+Results from MyTest3
+
+The current binary tree has 18.0 external nodes (i.e. regions).
+The tree's external path length is: 79.0
+The average path length of the tree is: 4.388888888888889
+
+
+Are (0.4, 0.15) and (0.5, 0.35) in the same region? 
+Yes.
+
+Are (0.9, 0.55) and (0.9, 0.75) in the same region? 
+No. The two points are separated by at least this line segment: (0.77, 0.6) (1.0, 0.6)
+
+Are (0.3, 0.8) and (0.65, 0.85) in the same region? 
+No. The two points are separated by at least this line segment: (0.4, 1.0) (0.3210526315789474, 0.736842105263158)

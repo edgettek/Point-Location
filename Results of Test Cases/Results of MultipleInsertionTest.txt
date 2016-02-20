@@ -1,0 +1,12 @@
+Results of MultipleInsertionTest
+
+The current binary tree has 8.0 external nodes (i.e. regions).
+The tree's external path length is: 24.0
+The average path length of the tree is: 3.0
+
+
+Are (0.35, 0.1) and (0.55, 0.3) in the same region? 
+No. The two points are separated by at least this line segment: (0.5, 0.5) (0.5, 0.5)
+
+Are (0.55, 0.3) and (0.8, 0.65) in the same region? 
+No. The two points are separated by at least this line segment: (0.5, 0.5) (1.0, 0.5)

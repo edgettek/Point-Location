@@ -1,0 +1,18 @@
+Results of MyHorizontalLineTest
+
+The current binary tree has 14.0 external nodes (i.e. regions).
+The tree's external path length is: 56.0
+The average path length of the tree is: 4.0
+
+
+Are (0.15, 0.65) and (0.15, 0.85) in the same region? 
+No. The two points are separated by at least this line segment: (0.37499999999999994, 0.75) (0.0, 0.75)
+
+Are (0.7, 0.9) and (0.8, 0.95) in the same region? 
+Yes.
+
+Are (0.9, 0.7) and (0.6, 0.9) in the same region? 
+No. The two points are separated by at least this line segment: (0.37499999999999994, 0.75) (0.9, 0.75)
+
+Are (0.9, 0.7) and (0.6, 0.4) in the same region? 
+No. The two points are separated by at least this line segment: (0.7333333333333334, 0.5000000000000001) (0.5379310344827587, 0.206896551724138)
